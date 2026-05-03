@@ -1,0 +1,15 @@
+{
+	"name": "adf-sentimentflow",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "spaincentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1e55fa6b-f778-4f90-b1b4-fa1aa364d2b5",
+		"tenantId": "ef4a684e-81b5-491c-a98e-c7b31be6c469"
+	}
+}
